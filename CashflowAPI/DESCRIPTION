@@ -1,0 +1,11 @@
+Package: CashflowPackage
+Title: Cashflow Package
+Version: 1.0.0.0
+Authors@R: c(person("Kenneth","Ezirim", email="kezirim@deloitte.com", role=c("aut","cre")))
+Description: Cashflow Web APIs
+Depends:
+    R (>= 3.4)
+License: file LICENSE
+LazyData: true
+RoxygenNote: 6.0.1.9000
+Suggests: testthat
